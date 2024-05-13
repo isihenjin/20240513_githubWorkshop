@@ -22,6 +22,7 @@ var shapes = [
       1, 1, 1 ]
 ];
 var colors = [
+
     'cyan', 'orange', 'skyblue', 'yellow', 'red', 'lime', 'purple'
 ];
 
