@@ -1,0 +1,44 @@
+commit 719b829f37dcd48ad7d91c6a45d2b863a1baa2ec
+Merge: d69ee60 2e4830c
+Author: Kokoro Kato <146074824+isihenjin@users.noreply.github.com>
+Date:   Mon May 13 16:01:14 2024 +0900
+
+    Merge branch 'main' of https://github.com/isihenjin/20240513_githubWorkshop
+
+commit d69ee60c295f910c8659a4252e430a8be55295ae
+Author: Kokoro Kato <146074824+isihenjin@users.noreply.github.com>
+Date:   Mon May 13 15:55:39 2024 +0900
+
+    change mino color
+    
+    blue -> skyblue
+
+commit 2e4830c49a03ef7322347eee60ffb699b31a3e50
+Author: isihenjin <146074824+isihenjin@users.noreply.github.com>
+Date:   Mon May 13 15:52:19 2024 +0900
+
+    change mino color
+    
+    cyan -> skyblue
+
+commit 5c2d124fb6e0d4ca306dcb30db589028feb41ba1
+Author: Kokoro Kato <146074824+isihenjin@users.noreply.github.com>
+Date:   Mon May 13 15:44:46 2024 +0900
+
+    change speed
+
+commit 6544b44c370a2627303e7bb08942c9c547d4e286
+Author: Kokoro Kato <146074824+isihenjin@users.noreply.github.com>
+Date:   Mon May 13 15:33:12 2024 +0900
+
+    change mino color
+    
+    green -> lime
+
+commit d047e69843b2614d687b1bdc98dff5ffd7460e6c
+Author: Kokoro Kato <146074824+isihenjin@users.noreply.github.com>
+Date:   Mon May 13 15:17:29 2024 +0900
+
+    import tetris
+    
+    import tetris.html
